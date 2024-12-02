@@ -1,0 +1,7 @@
+docker.io/library/elasticsearch:8.16.0
+docker.io/minio/minio:RELEASE.2024-11-07T00-52-20Z
+docker.io/nacos/nacos-server:v2.4.3
+docker.io/library/nginx:1.27.3
+docker.io/library/rabbitmq:4.0.4-management-alpine
+docker.io/library/redis:7.4.1
+docker.io/kartoza/geoserver:2.26.1
